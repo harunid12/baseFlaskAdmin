@@ -13,7 +13,7 @@ Repository ini merupakan template dasar penggunaan  **Bootstrap AdminLTE 3** den
 ### 1. Clone Repository
 ```sh
 git clone https://github.com/harunid12/baseFlaskAdmin.git
-cd repository
+cd baseFlaskAdmin
 ```
 
 ### 2. Buat dan Aktifkan Virtual Environment
