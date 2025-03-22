@@ -12,7 +12,7 @@ Repository ini merupakan template dasar penggunaan  **Bootstrap AdminLTE 3** den
 
 ### 1. Clone Repository
 ```sh
-git clone https://github.com/username/repository.git
+git clone https://github.com/harunid12/baseFlaskAdmin.git
 cd repository
 ```
 
@@ -25,13 +25,7 @@ venv\Scripts\activate     # Windows
 
 ### 3. Install Dependencies
 ```sh
-pip install -r requirements.txt
-```
-
-Jika belum memiliki `requirements.txt`, jalankan perintah berikut setelah menginstal Flask:
-```sh
 pip install flask
-pip freeze > requirements.txt
 ```
 
 ### 4. Jalankan Aplikasi
